@@ -23,7 +23,7 @@
 •	Poor: 300–579
 
 
-
+## Dimension Data
 •	Geography—a customer’s location can affect their decision to leave the bank.
 
 •	Gender—it’s interesting to explore whether gender plays a role in a customer leaving the bank.
@@ -59,7 +59,7 @@ o	Exited—whether or not the customer left the bank.
 o	Bank DOJ — date when the Customer associated/joined  with the bank.
 
 
-## Data Gathering:
+# Data Gathering:
 
 Please use the following data assets to pull the data related to Bank customer and associated details.
 
