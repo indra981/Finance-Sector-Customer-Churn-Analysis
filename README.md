@@ -1,5 +1,7 @@
 # Finance-Sector-Customer-Churn-Analysis
 
+This Power BI report aims to analyze customer churn in the banking industry. It explores various factors contributing to customer attrition, providing actionable insights for businesses to retain their customers. The report contains visualizations and insights based on historical customer data to understand churn patterns and potential areas of improvement in customer retention strategies.
+
 
 # Data Dictionary
 
@@ -21,7 +23,6 @@
 •	Fair: 580–669
 
 •	Poor: 300–579
-
 
 ## Dimension Data
 •	Geography—a customer’s location can affect their decision to leave the bank.
